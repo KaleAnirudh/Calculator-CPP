@@ -1,4 +1,4 @@
-# Calculator-c
+# Calculator-Cpp
 A simple menu-driven calculator built using C++.
 
 ## Features
